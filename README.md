@@ -3,10 +3,10 @@
 ## Tópicos abordados
 
 ## 30/06
-- [ ] Como começar um projeto em react.
-- [ ] Estruturação de páginas
-- [ ] Importar estilos
-- [ ] Components
+- [x] Como começar um projeto em react.
+- [x] Estruturação de páginas
+- [x] Importar estilos
+- [x] Components
 - [ ] Git
   - [ ] Push
   - [ ] Pull
