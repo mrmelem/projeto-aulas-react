@@ -7,16 +7,16 @@
 - [x] Estruturação de páginas
 - [x] Importar estilos
 - [x] Components
-- [ ] Git
-  - [ ] Push
-  - [ ] Pull
-  - [ ] Clone
-  - [ ] Commit
-  - [ ] Remote
+- [x] Git
+  - [x] Push
+  - [x] Pull
+  - [x] Clone
+  - [x] Commit
+  - [x] Remote
 ## 01/07
-- [ ] Hooks
-  - [ ] useState
-  - [ ] useEffect
+- [x] Hooks
+  - [x] useState
+  - [x] useEffect
   - [ ] Context API  
   - [ ] useContext
 - [ ] React Router Dom
