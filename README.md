@@ -19,10 +19,10 @@
   - [x] useEffect
   - [ ] Context API  
   - [ ] useContext
-- [ ] React Router Dom
-- [ ] Rotas públicas
-- [ ] Rotas privadas
-- [ ] Rotas de erro
+- [x] React Router Dom
+- [x] Rotas públicas
+- [x] Rotas privadas
+- [x] Rotas de erro
 ## 02/07
 - [ ] Conectando a uma API
   - [ ] Fetch API

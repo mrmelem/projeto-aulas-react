@@ -1,7 +1,17 @@
-import React, { useState } from "react";
+import React from "react";
+import { AuthProvider } from './Context';
+import Form from './Form';
 
 function App() {
-  const [nome, setNome] = useState(0);
+
+
+  return (
+    <AuthProvider>
+      <Form />
+    </AuthProvider>
+  )
+
+  /* const [nome, setNome] = useState(0);
 
   const handleClickUp = () => {
     const value = nome + 1;
@@ -19,6 +29,6 @@ function App() {
       <button onClick={handleClickUp}>Aumentar</button>
       <button onClick={handleClickDown}>Diminuir</button>
     </>
-  );
+  ); */
 }
 export default App;
